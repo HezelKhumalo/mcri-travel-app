@@ -10,7 +10,9 @@ const ExamplePage = () => {
         <h1>Example Page</h1>
 
         <p>This is an example page. Use this example to create your own pages</p>
+      <button> button</button>
       </div>
+
     </>
   )
 }
